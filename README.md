@@ -36,7 +36,7 @@ server:
 
 
 ## Output
-![Screenshot 2025-04-17 140048](https://github.com/user-attachments/assets/ff3f4b60-c851-463e-9edc-0a2b9e7bd629)
+![Screenshot 2025-04-17 135959](https://github.com/user-attachments/assets/0d9fe808-5ab9-4907-bdfc-30c16cf49dfd)
 ![Screenshot 2025-04-17 140605](https://github.com/user-attachments/assets/590c5a0e-e853-4a67-bfe5-db48a23a7e99)
 
 ## Result
